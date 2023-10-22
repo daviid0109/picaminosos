@@ -1,28 +1,3 @@
-# Nebulix | Astro + Static CMS
-
-[![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC_BY--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nd/4.0/)
-
-
-
-
-A Universe of Possibilities: Blogs, Portfolios, Webshop, Restaurant Menus, and Beyond.
-
-
-
-![Nebulix](https://nebulix.unfolding.io/screenshots/nebulix-00-start.jpg)
-
-## Notice
-
-__This theme is currently under development, and until we reach version 1.0.0, there is a possibility that upgrading could lead to errors.__
-
-## 🛠️Deploy
-Easily deploy this theme to Netlify with a single click, and conveniently update environment variables afterward on Netlify.
-
-
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/unfolding-io/nebulix#BLOG_SLUG=blog&PORTFOLIO_SLUG=work&SHOP_SLUG=shop&MENU_SLUG=menu&WEBSITE_LANGUAGE=en&CURRENCY=USD&UNITS=metric&NODE_VERSION=18)
-
-
 ## Constellations of Features:
 
 -   📰 Chart Your Path with a Blog
@@ -174,25 +149,5 @@ For those seeking priority assistance, we offer premium support services. Feel f
 ## 🚕 Roadmap
 
 As we journey towards v1.0, our path includes enriching the page builder with a diverse array of new blocks, upgrading dependencies to ensure optimal performance, and introducing exciting features. We're eager to hear from you! If you have any feature requests, please feel free to reach out and let us know.
-
-## 📸 Screenshots
-
-![Nebulix](https://nebulix.unfolding.io/screenshots/nebulix-01-shop.jpg)
-
-![Nebulix](https://nebulix.unfolding.io/screenshots/nebulix-02-shop-category.jpg)
-
-![Nebulix](https://nebulix.unfolding.io/screenshots/nebulix-03-shop-product.jpg)
-
-![Nebulix](https://nebulix.unfolding.io/screenshots/nebulix-04-shop-product.jpg)
-
-![Nebulix](https://nebulix.unfolding.io/screenshots/nebulix-05-shop-product-dark.jpg)
-
-![Nebulix](https://nebulix.unfolding.io/screenshots/nebulix-06-blogpost.jpg)
-
-![Nebulix](https://nebulix.unfolding.io/screenshots/nebulix-07-portfolio.jpg)
-
-![Nebulix](https://nebulix.unfolding.io/screenshots/nebulix-08-footer.jpg)
-
-
 
 
